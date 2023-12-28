@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    width: 360px;
+    padding:35px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width: 270px;
+    padding: 10px;
+    border: 2px solid red;
+    outline: none;
+    font-size: 20px;
+}
+
+button{
+    width: 57px;
+    height: 45px;
+    background-color: black;
+    color: white;
+    border-radius:2px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+
+.text ul{
+    position: relative;
+    background-color: aqua;
+    color: azure;
+    font-size: 20px;
+    padding: 7px;
+    text-align: left;
+}
+
+.text ul i{
+    position: absolute;
+    right:10px;
+}
